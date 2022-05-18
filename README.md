@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeverLua
 - 👀 I’m interested in Rework=dev
 - 🌱 I’m currently Learning lua
-- 💞️ I’m looking to collabore On .gg/jmdd 
+- 💞️ I’m looking to collabore SONN.
 - ☄️ ZX Dev' discord.gg/AjJZZPKkM8
 - 📫 How to reach me YT NeverLua
 
